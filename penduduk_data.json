@@ -1,0 +1,164 @@
+{
+  "penduduk": {
+    "2020": {
+      "year": 2020,
+      "population": 1653524,
+      "malePopulation": 818441,
+      "femalePopulation": 835083,
+      "area": 373.7,
+      "density": 4425,
+      "districts": 16,
+      "villages": 177,
+      "growthRate": 0.0
+    },
+    "2021": {
+      "year": 2021,
+      "population": 1656564,
+      "malePopulation": 819785,
+      "femalePopulation": 836779,
+      "area": 374.0,
+      "density": 4433,
+      "districts": 16,
+      "villages": 177,
+      "growthRate": 0.18
+    },
+    "2022": {
+      "year": 2022,
+      "population": 1659975,
+      "malePopulation": 821305,
+      "femalePopulation": 838670,
+      "area": 374.0,
+      "density": 4442,
+      "districts": 16,
+      "villages": 177,
+      "growthRate": 0.21
+    },
+    "2023": {
+      "year": 2023,
+      "population": 1694743,
+      "malePopulation": 838437,
+      "femalePopulation": 856306,
+      "area": 374.0,
+      "density": 4535,
+      "districts": 16,
+      "villages": 177,
+      "growthRate": 2.09
+    },
+    "2024": {
+      "year": 2024,
+      "population": 1708833,
+      "malePopulation": 845177,
+      "femalePopulation": 863656,
+      "area": 374.0,
+      "density": 4573,
+      "districts": 16,
+      "villages": 177,
+      "growthRate": 0.83
+    },
+    "2025": {
+      "year": 2025,
+      "population": 1722421,
+      "malePopulation": 851637,
+      "femalePopulation": 870784,
+      "area": 373.7,
+      "density": 4609,
+      "districts": 16,
+      "villages": 177,
+      "growthRate": 0.80
+    }
+  },
+  "ageDistribution": {
+    "2020": {
+      "usiaMuda": 367018,
+      "usiaMudaPercentage": 22.20,
+      "usiaProduktif": 1182010,
+      "usiaProduktifPercentage": 71.48,
+      "usiaTua": 104496,
+      "usiaTuaPercentage": 6.32
+    },
+    "2021": {
+      "usiaMuda": 363757,
+      "usiaMudaPercentage": 21.96,
+      "usiaProduktif": 1182986,
+      "usiaProduktifPercentage": 71.41,
+      "usiaTua": 109821,
+      "usiaTuaPercentage": 6.63
+    },
+    "2022": {
+      "usiaMuda": 360777,
+      "usiaMudaPercentage": 21.73,
+      "usiaProduktif": 1183941,
+      "usiaProduktifPercentage": 71.32,
+      "usiaTua": 115257,
+      "usiaTuaPercentage": 6.94
+    },
+    "2023": {
+      "usiaMuda": 359130,
+      "usiaMudaPercentage": 21.19,
+      "usiaProduktif": 1207250,
+      "usiaProduktifPercentage": 71.23,
+      "usiaTua": 128400,
+      "usiaTuaPercentage": 7.58
+    },
+    "2024": {
+      "usiaMuda": 356758,
+      "usiaMudaPercentage": 20.88,
+      "usiaProduktif": 1214892,
+      "usiaProduktifPercentage": 71.09,
+      "usiaTua": 137183,
+      "usiaTuaPercentage": 8.03
+    },
+    "2025": {
+      "usiaMuda": 354365,
+      "usiaMudaPercentage": 20.57,
+      "usiaProduktif": 1221858,
+      "usiaProduktifPercentage": 70.94,
+      "usiaTua": 146198,
+      "usiaTuaPercentage": 8.49
+    }
+  },
+  "districtDensity": {
+    "2020": [
+      {"name": "Pedurungan", "density": 9322, "population": 193.151},
+      {"name": "Tembalang", "density": 4291, "population": 189.680},
+      {"name": "Semarang Barat", "density": 6848, "population": 148.879},
+      {"name": "Banyumanik", "density": 5530, "population": 142.076},
+      {"name": "Ngaliyan", "density": 3731, "population": 141.727}
+    ],
+    "2021": [
+      {"name": "Pedurungan", "density": 9321, "population": 193.128},
+      {"name": "Tembalang", "density": 4334, "population": 191.560},
+      {"name": "Semarang Barat", "density": 6802, "population": 147.885},
+      {"name": "Ngaliyan", "density": 3741, "population": 142.131},
+      {"name": "Banyumanik", "density": 5515, "population": 141.689}
+    ],
+    "2022": [
+      {"name": "Tembalang", "density": 4377, "population": 193.480},
+      {"name": "Pedurungan", "density": 9321, "population": 193.125},
+      {"name": "Semarang Barat", "density": 6758, "population": 146.915},
+      {"name": "Ngaliyan", "density": 3752, "population": 142.553},
+      {"name": "Banyumanik", "density": 5501, "population": 141.319}
+    ],
+    "2023": [
+      {"name": "Tembalang", "density": 4499, "population": 198.862},
+      {"name": "Pedurungan", "density": 9485, "population": 196.526},
+      {"name": "Semarang Barat", "density": 6869, "population": 149.326},
+      {"name": "Ngaliyan", "density": 3830, "population": 145.495},
+      {"name": "Banyumanik", "density": 5583, "population": 143.433}
+    ],
+    "2024": [
+      {"name": "Tembalang", "density": 4566, "population": 201.821},
+      {"name": "Pedurungan", "density": 9530, "population": 197.468},
+      {"name": "Semarang Barat", "density": 6869, "population": 149.327},
+      {"name": "Ngaliyan", "density": 3860, "population": 146.628},
+      {"name": "Banyumanik", "density": 5595, "population": 143.746}
+    ],
+    "2025": [
+      {"name": "Tembalang", "density": 4635, "population": 204.865},
+      {"name": "Pedurungan", "density": 9578, "population": 198.452},
+      {"name": "Semarang Barat", "density": 6870, "population": 149.357},
+      {"name": "Ngaliyan", "density": 3890, "population": 147.797},
+      {"name": "Banyumanik", "density": 5609, "population": 144.087}
+    ]
+  }
+}

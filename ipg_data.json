@@ -1,0 +1,52 @@
+{
+  "ipgData": {
+    "2020": {
+      "UHH_Laki": 71.5, "UHH_Perempuan": 75.2,
+      "HLS_Laki": 12.8, "HLS_Perempuan": 13.1,
+      "RLS_Laki": 11.42, "RLS_Perempuan": 10.16,
+      "PPP_Laki": 16128.0, "PPP_Perempuan": 14287.0,
+      "IPM_Laki": 85.22, "IPM_Perempuan": 81.38,
+      "IPG": 95.49, "IKG": 0.045
+    },
+    "2021": {
+      "UHH_Laki": 71.6, "UHH_Perempuan": 75.3,
+      "HLS_Laki": 12.9, "HLS_Perempuan": 13.2,
+      "RLS_Laki": 11.50, "RLS_Perempuan": 10.25,
+      "PPP_Laki": 16450.0, "PPP_Perempuan": 14520.0,
+      "IPM_Laki": 85.65, "IPM_Perempuan": 81.82,
+      "IPG": 95.67, "IKG": 0.044
+    },
+    "2022": {
+      "UHH_Laki": 71.7, "UHH_Perempuan": 75.4,
+      "HLS_Laki": 13.0, "HLS_Perempuan": 13.3,
+      "RLS_Laki": 11.58, "RLS_Perempuan": 10.34,
+      "PPP_Laki": 16780.0, "PPP_Perempuan": 14760.0,
+      "IPM_Laki": 86.08, "IPM_Perempuan": 82.26,
+      "IPG": 95.93, "IKG": 0.043
+    },
+    "2023": {
+      "UHH_Laki": 71.8, "UHH_Perempuan": 75.5,
+      "HLS_Laki": 13.1, "HLS_Perempuan": 13.4,
+      "RLS_Laki": 11.66, "RLS_Perempuan": 10.43,
+      "PPP_Laki": 17120.0, "PPP_Perempuan": 15010.0,
+      "IPM_Laki": 86.51, "IPM_Perempuan": 82.70,
+      "IPG": 95.96, "IKG": 0.042
+    },
+    "2024": {
+      "UHH_Laki": 71.9, "UHH_Perempuan": 75.6,
+      "HLS_Laki": 13.2, "HLS_Perempuan": 13.5,
+      "RLS_Laki": 11.74, "RLS_Perempuan": 10.52,
+      "PPP_Laki": 17470.0, "PPP_Perempuan": 15270.0,
+      "IPM_Laki": 86.94, "IPM_Perempuan": 83.14,
+      "IPG": 96.37, "IKG": 0.041
+    },
+    "2025": {
+      "UHH_Laki": 71.9, "UHH_Perempuan": 75.6,
+      "HLS_Laki": 13.2, "HLS_Perempuan": 13.5,
+      "RLS_Laki": 11.74, "RLS_Perempuan": 10.52,
+      "PPP_Laki": 17470.0, "PPP_Perempuan": 15270.0,
+      "IPM_Laki": null, "IPM_Perempuan": null,
+      "IPG": null, "IKG": null
+    }
+  }
+}

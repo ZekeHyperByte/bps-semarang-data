@@ -1,0 +1,58 @@
+{
+  "kemiskinanData": {
+    "2020": {
+      "pendudukMiskin": "79,58 Ribu",
+      "pendudukMiskinValue": 79.58,
+      "persentase": "4,34%",
+      "persentaseValue": 4.34,
+      "garisMiskin": "Rp 522.691",
+      "indeksKedalaman": "0,68",
+      "indeksKeparahan": "0,16"
+    },
+    "2021": {
+      "pendudukMiskin": "84,45 Ribu",
+      "pendudukMiskinValue": 84.45,
+      "persentase": "4,56%",
+      "persentaseValue": 4.56,
+      "garisMiskin": "Rp 543.929",
+      "indeksKedalaman": "0,67",
+      "indeksKeparahan": "0,14"
+    },
+    "2022": {
+      "pendudukMiskin": "79,87 Ribu",
+      "pendudukMiskinValue": 79.87,
+      "persentase": "4,25%",
+      "persentaseValue": 4.25,
+      "garisMiskin": "Rp 589.598",
+      "indeksKedalaman": "0,56",
+      "indeksKeparahan": "0,11"
+    },
+    "2023": {
+      "pendudukMiskin": "80,53 Ribu",
+      "pendudukMiskinValue": 80.53,
+      "persentase": "4,23%",
+      "persentaseValue": 4.23,
+      "garisMiskin": "Rp 642.456",
+      "indeksKedalaman": "0,54",
+      "indeksKeparahan": "0,10"
+    },
+    "2024": {
+      "pendudukMiskin": "77,79 Ribu",
+      "pendudukMiskinValue": 77.79,
+      "persentase": "4,03%",
+      "persentaseValue": 4.03,
+      "garisMiskin": "Rp 671.936",
+      "indeksKedalaman": "0,59",
+      "indeksKeparahan": "0,12"
+    },
+    "2025": {
+      "pendudukMiskin": "74,36 Ribu",
+      "pendudukMiskinValue": 74.36,
+      "persentase": "3,80%",
+      "persentaseValue": 3.80,
+      "garisMiskin": "Rp 709.785",
+      "indeksKedalaman": "0,41",
+      "indeksKeparahan": "0,05"
+    }
+  }
+}

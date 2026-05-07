@@ -1,0 +1,78 @@
+{
+  "ipmData": {
+    "2020": {
+      "uhh": 77.34,
+      "rls": 10.53,
+      "hls": 15.52,
+      "pengeluaran": 15243.00,
+      "ipm": 83.05
+    },
+    "2021": {
+      "uhh": 77.51,
+      "rls": 10.78,
+      "hls": 15.53,
+      "pengeluaran": 15425.00,
+      "ipm": 83.55
+    },
+    "2022": {
+      "uhh": 77.69,
+      "rls": 10.80,
+      "hls": 15.54,
+      "pengeluaran": 16047.00,
+      "ipm": 84.08
+    },
+    "2023": {
+      "uhh": 77.90,
+      "rls": 10.81,
+      "hls": 15.55,
+      "pengeluaran": 16420.00,
+      "ipm": 84.43
+    },
+    "2024": {
+      "uhh": 78.23,
+      "rls": 11.05,
+      "hls": 15.57,
+      "pengeluaran": 16990.00,
+      "ipm": 85.24
+    },
+    "2025": {
+      "uhh": 78.72,
+      "rls": 11.11,
+      "hls": 15.58,
+      "pengeluaran": 17402.00,
+      "ipm": 85.80
+    }
+  },
+  "komponenData": {
+    "2020": {
+      "ipmNasional": 72.81,
+      "ipmJateng": 71.88,
+      "ipmSemarang": 83.05
+    },
+    "2021": {
+      "ipmNasional": 73.16,
+      "ipmJateng": 72.17,
+      "ipmSemarang": 83.55
+    },
+    "2022": {
+      "ipmNasional": 73.77,
+      "ipmJateng": 72.80,
+      "ipmSemarang": 84.08
+    },
+    "2023": {
+      "ipmNasional": 74.39,
+      "ipmJateng": 73.39,
+      "ipmSemarang": 84.43
+    },
+    "2024": {
+      "ipmNasional": 75.02,
+      "ipmJateng": 73.87,
+      "ipmSemarang": 85.24
+    },
+    "2025": {
+      "ipmNasional": 75.90,
+      "ipmJateng": 74.77,
+      "ipmSemarang": 85.80
+    }
+  }
+}

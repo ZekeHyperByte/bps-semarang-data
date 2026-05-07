@@ -1,0 +1,10 @@
+{
+  "idgData": {
+    "2020": {"SUMBANGAN": 37.13, "TENAGA": 51.15, "PARLEMEN": 20.41, "IDG": 74.67, "IKG": 0.157},
+    "2021": {"SUMBANGAN": 37.46, "TENAGA": 51.30, "PARLEMEN": 18.75, "IDG": 73.64, "IKG": 0.142},
+    "2022": {"SUMBANGAN": 38.05, "TENAGA": 49.78, "PARLEMEN": 18.00, "IDG": 73.93, "IKG": 0.266},
+    "2023": {"SUMBANGAN": 37.93, "TENAGA": 48.76, "PARLEMEN": 18.00, "IDG": 73.86, "IKG": 0.168},
+    "2024": {"SUMBANGAN": 37.68, "TENAGA": 50.42, "PARLEMEN": 24.00, "IDG": 78.71, "IKG": 0.14},
+    "2025": {"SUMBANGAN": null, "TENAGA": null, "PARLEMEN": null, "IDG": null, "IKG": null}
+  }
+}

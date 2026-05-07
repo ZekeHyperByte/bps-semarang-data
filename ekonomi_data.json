@@ -1,0 +1,172 @@
+{
+  "ekonomiData": [
+    {
+      "id": "0",
+      "tahun": "2025",
+      "pertumbuhanEkonomi": "6,49%",
+      "kontribusiPDRB": "14,94%",
+      "sektorIndustri": "28,07%",
+      "sektorKonstruksi": "27,13%",
+      "sektorPerdag": "12,88%",
+      "pdrbPerKapita": "Rp 167,24 Juta",
+      "vsJawaTengah": "Rank #1/35",
+      "tpt": "5,65%",
+      "semarangData": [
+        {"year": 2020, "value": -1.85},
+        {"year": 2021, "value": 5.16},
+        {"year": 2022, "value": 5.73},
+        {"year": 2023, "value": 5.77},
+        {"year": 2024, "value": 5.68},
+        {"year": 2025, "value": 6.49}
+      ],
+      "jatengData": [
+        {"year": 2020, "value": -2.63},
+        {"year": 2021, "value": 3.36},
+        {"year": 2022, "value": 5.40},
+        {"year": 2023, "value": 4.97},
+        {"year": 2024, "value": 4.95},
+        {"year": 2025, "value": 5.37}
+      ]
+    },
+    {
+      "id": "1",
+      "tahun": "2024",
+      "pertumbuhanEkonomi": "5,68%",
+      "kontribusiPDRB": "14,78%",
+      "sektorIndustri": "28,39%",
+      "sektorKonstruksi": "26,84%",
+      "sektorPerdag": "12,96%",
+      "pdrbPerKapita": "Rp 156,61 Juta",
+      "vsJawaTengah": "Rank #1/35",
+      "tpt": "5,82%",
+      "semarangData": [
+        {"year": 2020, "value": -1.85},
+        {"year": 2021, "value": 5.16},
+        {"year": 2022, "value": 5.73},
+        {"year": 2023, "value": 5.77},
+        {"year": 2024, "value": 5.68},
+        {"year": 2025, "value": 6.49}
+      ],
+      "jatengData": [
+        {"year": 2020, "value": -2.63},
+        {"year": 2021, "value": 3.36},
+        {"year": 2022, "value": 5.40},
+        {"year": 2023, "value": 4.97},
+        {"year": 2024, "value": 4.95},
+        {"year": 2025, "value": 5.37}
+      ]
+    },
+    {
+      "id": "2",
+      "tahun": "2023",
+      "pertumbuhanEkonomi": "5,77%",
+      "kontribusiPDRB": "14,68%",
+      "sektorIndustri": "28,07%",
+      "sektorKonstruksi": "26,43%",
+      "sektorPerdag": "13,09%",
+      "pdrbPerKapita": "Rp 146,84 Juta",
+      "vsJawaTengah": "Rank #1/35",
+      "tpt": "5,99%",
+      "semarangData": [
+        {"year": 2020, "value": -1.85},
+        {"year": 2021, "value": 5.16},
+        {"year": 2022, "value": 5.73},
+        {"year": 2023, "value": 5.77},
+        {"year": 2024, "value": 5.68},
+        {"year": 2025, "value": 6.49}
+      ],
+      "jatengData": [
+        {"year": 2020, "value": -2.63},
+        {"year": 2021, "value": 3.36},
+        {"year": 2022, "value": 5.40},
+        {"year": 2023, "value": 4.97},
+        {"year": 2024, "value": 4.95},
+        {"year": 2025, "value": 5.37}
+      ]
+    },
+    {
+      "id": "3",
+      "tahun": "2022",
+      "pertumbuhanEkonomi": "5,73%",
+      "kontribusiPDRB": "14,57%",
+      "sektorIndustri": "28,87%",
+      "sektorKonstruksi": "26,33%",
+      "sektorPerdag": "13,20%",
+      "pdrbPerKapita": "Rp 135,33 Juta",
+      "vsJawaTengah": "Rank #1/35",
+      "tpt": "7,60%",
+      "semarangData": [
+        {"year": 2020, "value": -1.85},
+        {"year": 2021, "value": 5.16},
+        {"year": 2022, "value": 5.73},
+        {"year": 2023, "value": 5.77},
+        {"year": 2024, "value": 5.68},
+        {"year": 2025, "value": 6.49}
+      ],
+      "jatengData": [
+        {"year": 2020, "value": -2.63},
+        {"year": 2021, "value": 3.36},
+        {"year": 2022, "value": 5.40},
+        {"year": 2023, "value": 4.97},
+        {"year": 2024, "value": 4.95},
+        {"year": 2025, "value": 5.37}
+      ]
+    },
+    {
+      "id": "4",
+      "tahun": "2021",
+      "pertumbuhanEkonomi": "5,16%",
+      "kontribusiPDRB": "14,52%",
+      "sektorIndustri": "-",
+      "sektorKonstruksi": "-",
+      "sektorPerdag": "-",
+      "pdrbPerKapita": "Rp 123,04 Juta",
+      "vsJawaTengah": "Rank #1/35",
+      "tpt": "9,54%",
+      "semarangData": [
+        {"year": 2020, "value": -1.85},
+        {"year": 2021, "value": 5.16},
+        {"year": 2022, "value": 5.73},
+        {"year": 2023, "value": 5.77},
+        {"year": 2024, "value": 5.68},
+        {"year": 2025, "value": 6.49}
+      ],
+      "jatengData": [
+        {"year": 2020, "value": -2.63},
+        {"year": 2021, "value": 3.36},
+        {"year": 2022, "value": 5.40},
+        {"year": 2023, "value": 4.97},
+        {"year": 2024, "value": 4.95},
+        {"year": 2025, "value": 5.37}
+      ]
+    },
+    {
+      "id": "5",
+      "tahun": "2020",
+      "pertumbuhanEkonomi": "-1,85%",
+      "kontribusiPDRB": "14,27%",
+      "sektorIndustri": "-",
+      "sektorKonstruksi": "-",
+      "sektorPerdag": "-",
+      "pdrbPerKapita": "Rp 114,19 Juta",
+      "vsJawaTengah": "Rank #1/35",
+      "tpt": "9,57%",
+      "semarangData": [
+        {"year": 2020, "value": -1.85},
+        {"year": 2021, "value": 5.16},
+        {"year": 2022, "value": 5.73},
+        {"year": 2023, "value": 5.77},
+        {"year": 2024, "value": 5.68},
+        {"year": 2025, "value": 6.49}
+      ],
+      "jatengData": [
+        {"year": 2020, "value": -2.63},
+        {"year": 2021, "value": 3.36},
+        {"year": 2022, "value": 5.40},
+        {"year": 2023, "value": 4.97},
+        {"year": 2024, "value": 4.95},
+        {"year": 2025, "value": 5.37}
+      ]
+    }
+  ]
+}

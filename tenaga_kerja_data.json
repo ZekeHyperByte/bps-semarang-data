@@ -1,0 +1,42 @@
+{
+  "pengangguranData": {
+    "2020": {"tptSemarang": 9.57, "tpakSemarang": 69.89, "tptJateng": 6.48, "tpakJateng": 68.50},
+    "2021": {"tptSemarang": 9.54, "tpakSemarang": 69.41, "tptJateng": 5.95, "tpakJateng": 69.10},
+    "2022": {"tptSemarang": 7.60, "tpakSemarang": 70.96, "tptJateng": 5.57, "tpakJateng": 69.70},
+    "2023": {"tptSemarang": 5.99, "tpakSemarang": 69.42, "tptJateng": 5.13, "tpakJateng": 70.30},
+    "2024": {"tptSemarang": 5.82, "tpakSemarang": 69.88, "tptJateng": 4.78, "tpakJateng": 70.90},
+    "2025": {"tptSemarang": 5.65, "tpakSemarang": 72.60, "tptJateng": 4.76, "tpakJateng": 71.50}
+  },
+  "yearData": {
+    "2020": {"tpt": 9.57, "tingkatPartisipasi": 69.89, "bekerja": 856123, "pengangguran": 78956},
+    "2021": {"tpt": 9.54, "tingkatPartisipasi": 69.41, "bekerja": 871245, "pengangguran": 75234},
+    "2022": {"tpt": 7.60, "tingkatPartisipasi": 70.96, "bekerja": 889567, "pengangguran": 68432},
+    "2023": {"tpt": 5.99, "tingkatPartisipasi": 69.42, "bekerja": 905678, "pengangguran": 62789},
+    "2024": {"tpt": 5.82, "tingkatPartisipasi": 69.88, "bekerja": 922345, "pengangguran": 57123},
+    "2025": {"tpt": 5.65, "tingkatPartisipasi": 72.60, "bekerja": 938766, "pengangguran": 56228}
+  },
+  "indikatorData": {
+    "2020": {"angkatanKerja": 935079, "bkbk": 421567, "tingkatKesempatan": 91.55},
+    "2021": {"angkatanKerja": 946479, "bkbk": 418234, "tingkatKesempatan": 92.08},
+    "2022": {"angkatanKerja": 957999, "bkbk": 415678, "tingkatKesempatan": 92.85},
+    "2023": {"angkatanKerja": 968467, "bkbk": 412345, "tingkatKesempatan": 93.52},
+    "2024": {"angkatanKerja": 979468, "bkbk": 408912, "tingkatKesempatan": 94.18},
+    "2025": {"angkatanKerja": 994994, "bkbk": 938766, "tingkatKesempatan": 94.35}
+  },
+  "distribusiData": {
+    "2020": {"Pertanian": 2.00, "Manufaktur": 26.00, "Jasa": 73.00},
+    "2021": {"Pertanian": 2.00, "Manufaktur": 26.00, "Jasa": 72.00},
+    "2022": {"Pertanian": 1.00, "Manufaktur": 28.00, "Jasa": 70.00},
+    "2023": {"Pertanian": 2.00, "Manufaktur": 26.00, "Jasa": 72.00},
+    "2024": {"Pertanian": 2.00, "Manufaktur": 28.00, "Jasa": 70.00},
+    "2025": {"Pertanian": 2.00, "Manufaktur": 28.00, "Jasa": 70.00}
+  },
+  "jatengData": {
+    "2020": {"tpt": 6.48, "tingkatPartisipasi": 68.5},
+    "2021": {"tpt": 5.95, "tingkatPartisipasi": 69.1},
+    "2022": {"tpt": 5.57, "tingkatPartisipasi": 69.7},
+    "2023": {"tpt": 5.13, "tingkatPartisipasi": 70.3},
+    "2024": {"tpt": 4.78, "tingkatPartisipasi": 70.9},
+    "2025": {"tpt": 4.76, "tingkatPartisipasi": 71.5}
+  }
+}

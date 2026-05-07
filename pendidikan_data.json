@@ -1,0 +1,144 @@
+{
+  "pendidikanData": {
+    "2021": {
+      "angkaMelekHuruf": 96.5,
+      "rataRataLamaSekolah": 10.78,
+      "harapanLamaSekolah": 15.53,
+      "rasioGuruMurid": 16.08,
+      "jenjangPendidikan": [
+        {"jenjang": "TK", "sekolah": 668, "guru": 2272, "murid": 28986},
+        {"jenjang": "RA", "sekolah": 137, "guru": 693, "murid": 8774},
+        {"jenjang": "SD", "sekolah": 506, "guru": 7140, "murid": 131398},
+        {"jenjang": "MI", "sekolah": 92, "guru": 1180, "murid": 19205},
+        {"jenjang": "SMP", "sekolah": 191, "guru": 3802, "murid": 63809},
+        {"jenjang": "MTs", "sekolah": 41, "guru": 823, "murid": 9538},
+        {"jenjang": "SMA", "sekolah": 74, "guru": 1889, "murid": 30402},
+        {"jenjang": "SMK", "sekolah": 86, "guru": 2464, "murid": 38239},
+        {"jenjang": "MA", "sekolah": 32, "guru": 742, "murid": 6521}
+      ],
+      "rasioData": [
+        {"jenjang": "TK/RA", "rasioSekolahMurid": 46.91, "rasioGuruMurid": 12.74},
+        {"jenjang": "SD/MI", "rasioSekolahMurid": 251.84, "rasioGuruMurid": 18.10},
+        {"jenjang": "SMP/MTs", "rasioSekolahMurid": 316.15, "rasioGuruMurid": 15.86},
+        {"jenjang": "SMA/SMK/MA", "rasioSekolahMurid": 391.47, "rasioGuruMurid": 14.75}
+      ],
+      "partisipasiPendidikan": [
+        {"jenjang": "SD/MI/Sederajat", "apm": 99.58, "apk": 102.66},
+        {"jenjang": "SMP/MTs/Sederajat", "apm": 90.86, "apk": 95.00},
+        {"jenjang": "SMA/SMK/MA/Sederajat", "apm": 70.23, "apk": 105.01}
+      ]
+    },
+    "2022": {
+      "angkaMelekHuruf": 96.9,
+      "rataRataLamaSekolah": 10.80,
+      "harapanLamaSekolah": 15.54,
+      "rasioGuruMurid": 15.79,
+      "jenjangPendidikan": [
+        {"jenjang": "TK", "sekolah": 668, "guru": 2473, "murid": 32620},
+        {"jenjang": "RA", "sekolah": 140, "guru": 636, "murid": 10051},
+        {"jenjang": "SD", "sekolah": 507, "guru": 7102, "murid": 128239},
+        {"jenjang": "MI", "sekolah": 94, "guru": 1137, "murid": 19730},
+        {"jenjang": "SMP", "sekolah": 192, "guru": 3757, "murid": 62716},
+        {"jenjang": "MTs", "sekolah": 43, "guru": 798, "murid": 9499},
+        {"jenjang": "SMA", "sekolah": 73, "guru": 1919, "murid": 30552},
+        {"jenjang": "SMK", "sekolah": 86, "guru": 2379, "murid": 36343},
+        {"jenjang": "MA", "sekolah": 33, "guru": 662, "murid": 6680}
+      ],
+      "rasioData": [
+        {"jenjang": "TK/RA", "rasioSekolahMurid": 52.81, "rasioGuruMurid": 13.72},
+        {"jenjang": "SD/MI", "rasioSekolahMurid": 246.20, "rasioGuruMurid": 17.96},
+        {"jenjang": "SMP/MTs", "rasioSekolahMurid": 307.30, "rasioGuruMurid": 15.85},
+        {"jenjang": "SMA/SMK/MA", "rasioSekolahMurid": 383.20, "rasioGuruMurid": 14.83}
+      ],
+      "partisipasiPendidikan": [
+        {"jenjang": "SD/MI/Sederajat", "apm": 99.97, "apk": 103.03},
+        {"jenjang": "SMP/MTs/Sederajat", "apm": 91.26, "apk": 91.26},
+        {"jenjang": "SMA/SMK/MA/Sederajat", "apm": 70.24, "apk": 104.23}
+      ]
+    },
+    "2023": {
+      "angkaMelekHuruf": 97.2,
+      "rataRataLamaSekolah": 10.81,
+      "harapanLamaSekolah": 15.55,
+      "rasioGuruMurid": 15.82,
+      "jenjangPendidikan": [
+        {"jenjang": "TK", "sekolah": 683, "guru": 2515, "murid": 34757},
+        {"jenjang": "RA", "sekolah": 141, "guru": 654, "murid": 10425},
+        {"jenjang": "SD", "sekolah": 509, "guru": 7076, "murid": 125975},
+        {"jenjang": "MI", "sekolah": 94, "guru": 1166, "murid": 19756},
+        {"jenjang": "SMP", "sekolah": 194, "guru": 3757, "murid": 63248},
+        {"jenjang": "MTs", "sekolah": 48, "guru": 827, "murid": 9293},
+        {"jenjang": "SMA", "sekolah": 70, "guru": 1874, "murid": 30935},
+        {"jenjang": "SMK", "sekolah": 83, "guru": 2298, "murid": 36517},
+        {"jenjang": "MA", "sekolah": 34, "guru": 676, "murid": 6705}
+      ],
+      "rasioData": [
+        {"jenjang": "TK/RA", "rasioSekolahMurid": 54.83, "rasioGuruMurid": 14.26},
+        {"jenjang": "SD/MI", "rasioSekolahMurid": 241.68, "rasioGuruMurid": 17.68},
+        {"jenjang": "SMP/MTs", "rasioSekolahMurid": 299.76, "rasioGuruMurid": 15.82},
+        {"jenjang": "SMA/SMK/MA", "rasioSekolahMurid": 396.56, "rasioGuruMurid": 15.30}
+      ],
+      "partisipasiPendidikan": [
+        {"jenjang": "SD/MI/Sederajat", "apm": 99.75, "apk": 102.43},
+        {"jenjang": "SMP/MTs/Sederajat", "apm": 80.17, "apk": 84.92},
+        {"jenjang": "SMA/SMK/MA/Sederajat", "apm": 61.01, "apk": 102.59}
+      ]
+    },
+    "2024": {
+      "angkaMelekHuruf": 97.6,
+      "rataRataLamaSekolah": 11.05,
+      "harapanLamaSekolah": 15.57,
+      "rasioGuruMurid": 16.56,
+      "jenjangPendidikan": [
+        {"jenjang": "TK", "sekolah": 692, "guru": 2561, "murid": 34315},
+        {"jenjang": "RA", "sekolah": 141, "guru": 654, "murid": 10425},
+        {"jenjang": "SD", "sekolah": 510, "guru": 7083, "murid": 125715},
+        {"jenjang": "MI", "sekolah": 94, "guru": 1166, "murid": 19756},
+        {"jenjang": "SMP", "sekolah": 193, "guru": 3854, "murid": 63841},
+        {"jenjang": "MTs", "sekolah": 48, "guru": 827, "murid": 9293},
+        {"jenjang": "SMA", "sekolah": 72, "guru": 1841, "murid": 31289},
+        {"jenjang": "SMK", "sekolah": 83, "guru": 2220, "murid": 36353},
+        {"jenjang": "MA", "sekolah": 34, "guru": 676, "murid": 6705}
+      ],
+      "rasioData": [
+        {"jenjang": "TK/RA", "rasioSekolahMurid": 49.59, "rasioGuruMurid": 13.40},
+        {"jenjang": "SD/MI", "rasioSekolahMurid": 246.50, "rasioGuruMurid": 17.75},
+        {"jenjang": "SMP/MTs", "rasioSekolahMurid": 330.78, "rasioGuruMurid": 16.56},
+        {"jenjang": "SMA/SMK/MA", "rasioSekolahMurid": 436.40, "rasioGuruMurid": 16.66}
+      ],
+      "partisipasiPendidikan": [
+        {"jenjang": "SD/MI/Sederajat", "apm": 99.14, "apk": 101.11},
+        {"jenjang": "SMP/MTs/Sederajat", "apm": 79.63, "apk": 85.48},
+        {"jenjang": "SMA/SMK/MA/Sederajat", "apm": 60.49, "apk": 97.81}
+      ]
+    },
+    "2025": {
+      "angkaMelekHuruf": 98.0,
+      "rataRataLamaSekolah": 11.20,
+      "harapanLamaSekolah": 15.60,
+      "rasioGuruMurid": 16.47,
+      "jenjangPendidikan": [
+        {"jenjang": "TK", "sekolah": 696, "guru": 2326, "murid": 33344},
+        {"jenjang": "RA", "sekolah": 141, "guru": 597, "murid": 9625},
+        {"jenjang": "SD", "sekolah": 513, "guru": 7217, "murid": 124968},
+        {"jenjang": "MI", "sekolah": 93, "guru": 1099, "murid": 19469},
+        {"jenjang": "SMP", "sekolah": 193, "guru": 3904, "murid": 64306},
+        {"jenjang": "MTs", "sekolah": 49, "guru": 681, "murid": 9298},
+        {"jenjang": "SMA", "sekolah": 69, "guru": 1843, "murid": 30742},
+        {"jenjang": "SMK", "sekolah": 82, "guru": 2224, "murid": 36100},
+        {"jenjang": "MA", "sekolah": 33, "guru": 593, "murid": 6842}
+      ],
+      "rasioData": [
+        {"jenjang": "TK/RA", "rasioSekolahMurid": 47.91, "rasioGuruMurid": 14.34},
+        {"jenjang": "SD/MI", "rasioSekolahMurid": 243.60, "rasioGuruMurid": 17.32},
+        {"jenjang": "SMP/MTs", "rasioSekolahMurid": 333.19, "rasioGuruMurid": 16.47},
+        {"jenjang": "SMA/SMK/MA", "rasioSekolahMurid": 442.66, "rasioGuruMurid": 16.44}
+      ],
+      "partisipasiPendidikan": [
+        {"jenjang": "SD/MI/Sederajat", "apm": 97.7, "apk": 101.71},
+        {"jenjang": "SMP/MTs/Sederajat", "apm": 80.86, "apk": 92.32},
+        {"jenjang": "SMA/SMK/MA/Sederajat", "apm": 71.45, "apk": 89.31}
+      ]
+    }
+  }
+}
